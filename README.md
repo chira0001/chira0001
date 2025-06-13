@@ -1,7 +1,7 @@
 <p align="center">
-<img height="150" width="150" src="https://github.com/chira0001/chira0001/blob/main/Resources/left.webp">
-<img width="150" src="https://github.com/chira0001/chira0001/blob/main/Resources/MyLogo.png">
-<img height="150" width="150" src="https://github.com/chira0001/chira0001/blob/main/Resources/right.webp">
+<img width="25%" src="https://github.com/chira0001/chira0001/blob/main/Resources/left.webp">
+<img width="20%" src="https://github.com/chira0001/chira0001/blob/main/Resources/MyLogo.png">
+<img width="25%" src="https://github.com/chira0001/chira0001/blob/main/Resources/right.webp">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chira0001&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
