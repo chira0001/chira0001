@@ -52,6 +52,6 @@ Hi there! 👋 I'm **Chirath**, an enthusiastic and self-motivated undergraduate
 </p> 
 
 <img align="right" alt="GIF" width="30%" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-<a href="https://github.com/Deepshikhayadav"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chira0001&theme=dracula&hide_border=true" width="65%" alt="deepshikhayadav"/></a>
+<a href="https://github.com/chira0001"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chira0001&theme=dracula&hide_border=true" width="65%" alt="Chirath"/></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
