@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-Hi there! 👋 I'm **Chirath**, an enthusiastic and self-motivated undergraduate pursuing a **Bachelor of ICT (Honors)** at the **Faculty of Technology, University of Ruhuna (FOT, UOR)**. I'm passionate about technology and love solving real-world problems through creative and efficient coding.
+Hi there! 👋 I'm **Chirath**, an enthusiastic and self-motivated undergraduate pursuing a **Bachelor of ICT (Honours)** at the **Faculty of Technology, University of Ruhuna (FOT, UOR)**. I'm passionate about technology and love solving real-world problems through creative and efficient coding.
 
 - 🎓 **Bachelor of ICT (Honours)** – FOT, UOR  
 - 💡 Driven by curiosity and a desire to build meaningful digital solutions  
