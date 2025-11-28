@@ -20,7 +20,7 @@ Hi there! 👋 I'm **Chirath**, an enthusiastic and self-motivated undergraduate
 - 💡 Driven by curiosity and a desire to build meaningful digital solutions  
 - 🧠 Problem solver | Fast learner | Team player  
 - 🛠️ **Skills**:  
-  `C` • `Python` • `JavaScript` • `Java` • `HTML` • `CSS` • `C#`  
+  `C` • `Python` • `JavaScript` • `Java` • `HTML` • `CSS` • `C#`  • `React`  • `MongoDB`  • `Express`  
 - 🔭 Currently exploring full-stack development and automation  
 - 🤝 Open to freelance work and collaborative tech projects  
 - 📫 **Reach me at**: [ chirathwijesinghe123@gmail.com ]
